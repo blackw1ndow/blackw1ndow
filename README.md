@@ -22,6 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"/>
   <img width="15"/>
 </div>
-<h2 align="center">more info about me: https://blackw1ndow.github.io/<!/h1>
+<h3 align="center">more info about me: https://blackw1ndow.github.io/<!/h1>
 
 ###
